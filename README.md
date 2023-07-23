@@ -133,12 +133,12 @@ For any issues related to the project, raise an ISSUE for the respective Reposit
 
 ## 🐦 Follow Me:
 
-> [Dev Community](https://dev.to/ayushkanduri)
+> [github](https://github.com/UmmanaboyanaKalyankumar/placementcell.git)
 
-> [Twitter](https://twitter.com/ayush_codes)
+> [Twitter](Kalyan kumar)
 
-> [LinkedIn](https://www.linkedin.com/in/ayushkanduri/)
+> [LinkedIn](http://linkedin.com/in/ummanaboyana-kalyan-kumar-0a0614258)
 
-> [YouTube](https://www.youtube.com/channel/UC6c1ajC_2jF7wQp7Y13t2bg)
+> [YouTube](https://youtu.be/oZYdOSyKTxk)
 
 I hope you like the project. Thanks for reading :)
